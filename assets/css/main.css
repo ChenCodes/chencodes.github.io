@@ -2449,9 +2449,8 @@
 /* Header */
 
 	#header {
-		background: ##ab94ff;
-		/*color: #d1f1e9;*/
-		color: #ab94ff;
+		background: #5586B9;
+		color: #d1f1e9;
 		height: 100%;
 		position: fixed;
 		text-align: center;
@@ -2469,7 +2468,8 @@
 			}
 
 		#header header p {
-			color: #b6e9dc;
+			color: #335373;
+
 		}
 
 		#header a {
@@ -2524,7 +2524,7 @@
 		}
 
 			#header > nav ul li {
-				border-top: solid 2px #ab94ff;
+				border-top: solid 2px  #7998B7;
 				display: block;
 				padding: 0;
 			}
