@@ -2554,7 +2554,7 @@
 	#wrapper {
 		background: #fff;
 		padding-right: 23em;
-		cursor:url(https://github.com/ChenCodes/chencodes.github.io/blob/master/images/samCursor.jpg), auto;
+		cursor:url("https://github.com/ChenCodes/chencodes.github.io/blob/master/images/samCursor.jpg"), auto;
 	}
 
 /* Main */
