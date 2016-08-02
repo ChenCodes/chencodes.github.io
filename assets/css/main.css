@@ -2779,7 +2779,8 @@
 				top: 0;
 				width: 100%;
 				z-index: 10001;
-				background: #222;
+				/*background: #222;*/
+				background: #ab94ff;
 				color: #fff;
 				min-width: 320px;
 			}
